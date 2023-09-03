@@ -1,2 +1,2 @@
 # Langchain-AI-apps
-This repo contains basic AI applications developed with the help of Langchain.
+This repo contains AI applications developed with the help of Langchain.
